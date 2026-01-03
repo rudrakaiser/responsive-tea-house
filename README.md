@@ -6,7 +6,7 @@ The design represents a modern tea shop landing page called “Tea House” with
 The main goal of this project was to practice responsive layouts, Tailwind utility classes, gradients, flexbox, grid system, and component-based section structuring without using any JavaScript framework.
 
 ---
-### [Live Demo]()
+### [Live Demo](https://responsive-tea-house.netlify.app/)
 ---
 
 ### Technologies Used  
